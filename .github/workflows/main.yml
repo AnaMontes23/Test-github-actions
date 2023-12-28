@@ -1,5 +1,5 @@
 name: Ejecutar pruebas Behave
-run-name: Ejecutar pruebas Behave
+run-name: Ejecutar pruebas Behave para comparar KPIs
 on: 
   push:
     branches: [main]
